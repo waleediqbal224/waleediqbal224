@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node Js, Mongo DB**
 
-- 💬 Ask me about **React js, React Native, Redux**
+- 💬 Ask me about **React js, React Native & Redux**
 
 - 📫 How to reach me **waleediqbal224@gmail.com**
 
